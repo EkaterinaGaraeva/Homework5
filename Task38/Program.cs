@@ -56,7 +56,7 @@ double MinElement(double[] arrayOfNumbers)
     return min;
 }
 
-double[] arr = GetArray(10, 2);
+double[] arr = GetArray(10, 9);
 Console.Write("Исходный массив: ");
 PrintArray(arr);
 
